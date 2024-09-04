@@ -14,6 +14,3 @@
 ![js](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 ![js](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![js](https://img.shields.io/badge/Intel-_9600K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![js](https://img.shields.io/badge/NVIDIA-GTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
